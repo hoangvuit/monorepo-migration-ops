@@ -1,0 +1,14 @@
+commands/investigate-ticket-requirement.md
+  h_eecbff8c321d27 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "f8d97345bd9eeb6192698b896f2794f6e5d2d04a",
+  "prompts": {},
+  "humans": {
+    "h_eecbff8c321d27": {
+      "author": "Vu Duong <vduong@webmd.net>"
+    }
+  }
+}
