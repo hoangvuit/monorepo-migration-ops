@@ -1,9 +1,3 @@
-### neptune
-
-- **Repo name**: `neptune`
-- **Local path**: `../../neptune`
-- **Migrating Branch**: `migrating-to-monorepo`
-
 ### cheers-spa
 
 - **Repo name**: `cheers-spa`
